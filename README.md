@@ -1,2 +1,0 @@
-# alertReact
-Created with CodeSandbox
